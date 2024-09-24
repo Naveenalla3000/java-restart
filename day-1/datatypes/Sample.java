@@ -18,7 +18,6 @@ public class Sample {
         System.out.println("Double: " + c);
         System.out.println("Long: " + d);
 
-
         char ch = 'n';
         System.out.println("Char: " + ch);
 
